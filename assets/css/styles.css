@@ -1,0 +1,28 @@
+#body-login {
+  overflow: hidden;
+}
+
+#body_inscription {
+  overflow: hidden;
+  height: 100%;
+}
+
+#liste_membre {
+  overflow-y: scroll;
+}
+
+#liste_photo {
+  overflow-y: scroll;
+}
+
+#liste_album {
+  overflow-y: scroll;
+  background-color: transparent;
+}
+a {
+  text-decoration: none;
+}
+
+#liste_photo_miniature {
+  overflow-y: scroll;
+}
